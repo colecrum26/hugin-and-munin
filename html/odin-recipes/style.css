@@ -1,3 +1,14 @@
+#main-content-wrapper {
+    text-align: center;
+}
+
+#recipe-list-wrapper {
+    text-align: center;
+}
+#recipe-list {
+    list-style-type: none;
+}
+
 #chef1 {
     display: none;
 }
