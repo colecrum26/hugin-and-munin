@@ -8,6 +8,13 @@
 #recipe-list {
     list-style-type: none;
 }
+.recipe-list-item {
+    margin: 48px 0 16px 0;
+}
+.recipe-link {
+    text-decoration: none;
+}
+
 
 #chef1 {
     display: none;
