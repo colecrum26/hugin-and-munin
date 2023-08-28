@@ -1,6 +1,9 @@
 #main-content-wrapper {
     text-align: center;
 }
+#main-content {
+    margin: 60px;
+}
 
 #recipe-list-wrapper {
     text-align: center;
@@ -11,8 +14,12 @@
 .recipe-list-item {
     margin: 48px 0 16px 0;
 }
-.recipe-link {
-    text-decoration: none;
+
+.recipe-link:link, .recipe-link:visited {
+    color: black;
+}
+.recipe-link:hover {
+    color: blue;
 }
 
 
