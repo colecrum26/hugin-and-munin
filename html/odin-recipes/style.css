@@ -18,6 +18,8 @@ h1 {
 }
 
 #recipe-list-wrapper {
+    display: flex;
+    justify-content: center;
     text-align: center;
     border-style: solid;
 }
@@ -28,6 +30,8 @@ h1 {
 }
 .recipe-list-item {
     margin: 24px;
+    padding: 8px;
+    width: fit-content;
     border-style: solid;
 }
 
