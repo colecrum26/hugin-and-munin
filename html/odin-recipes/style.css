@@ -24,9 +24,10 @@ h1 {
 #recipe-list {
     list-style-type: none;
     border-style: solid;
+    padding: 0;
 }
 .recipe-list-item {
-    margin: 48px 0 48px 0;
+    margin: 24px;
     border-style: solid;
 }
 
