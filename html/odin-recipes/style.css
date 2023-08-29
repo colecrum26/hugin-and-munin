@@ -3,6 +3,9 @@
 }
 
 #main-content-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     text-align: center;
     border-style: solid;
 }
@@ -11,6 +14,9 @@
     border-style: solid;
 }
 h1 {
+    display: flex;
+    align-self: center;
+    width: fit-content;
     border-style: solid;
 }
 .header-text {
